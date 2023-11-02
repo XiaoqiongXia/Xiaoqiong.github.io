@@ -49,12 +49,13 @@ RESEARCH EXPERIENCES
 
 PUBLICATIONS
 ======
-1. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. MDTips: A Multimodal-data based Drug-Target interaction prediction system fusing knowledge, gene expression profile and structural data. *Bioinformatics*. 2023 Jun 22.  <br/> 
-2. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion. *computer methods and programs in biomedicine*. Under review.  
-3. Chaoyu Zhu, Zhihao Yang, **Xiaoqiong Xia**, Nan Li, Fan Zhong, Lei Liu. Multimodal reasoning based on knowledge graph embedding for specific diseases. *Bioinformatics*. 2022 Apr 12.  
-4. Chaoyu Zhu, **Xiaoqiong Xia**, Nan Li, Fan Zhong, Lei Liu. RDKG-115: Assisting Drug Repurposing and Discovery for Rare Diseases by Trimodal Knowledge Graph Embedding. *Computers in Biology and Medicine*. 2023 Jul 17.  
-5. Gang Liu, Zhenhao Liu, Xiaomeng Sun, **Xiaoqiong Xia**, Yunhe Liu, Lei Liu. Pan-Cancer Genome-Wide DNA Methylation Analyses Revealed That Hypermethylation Influences 3D Architecture and Gene Expression Dysregulation in HOXA Locus During Carcinogenesis of Cancers. *Frontiers in cell and developmental biology*. 2021 Mar 18.  
-6. **Xiaoqiong Xia**, Mengyu Zhou, Hao Yan, Sijia Li, Xianzheng Sha, Yin Wang. Network analysis of aging acceleration reveals systematic properties of 11 types of cancers. *FEBS Open Bio*. 2019 Jul.  
+1. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. MDTips: A Multimodal-data based Drug-Target interaction prediction system fusing knowledge, gene expression profile and structural data. *Bioinformatics*. 2023 Jun 22
+
+3. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion. *computer methods and programs in biomedicine*. Under review.  
+4. Chaoyu Zhu, Zhihao Yang, **Xiaoqiong Xia**, Nan Li, Fan Zhong, Lei Liu. Multimodal reasoning based on knowledge graph embedding for specific diseases. *Bioinformatics*. 2022 Apr 12.  
+5. Chaoyu Zhu, **Xiaoqiong Xia**, Nan Li, Fan Zhong, Lei Liu. RDKG-115: Assisting Drug Repurposing and Discovery for Rare Diseases by Trimodal Knowledge Graph Embedding. *Computers in Biology and Medicine*. 2023 Jul 17.  
+6. Gang Liu, Zhenhao Liu, Xiaomeng Sun, **Xiaoqiong Xia**, Yunhe Liu, Lei Liu. Pan-Cancer Genome-Wide DNA Methylation Analyses Revealed That Hypermethylation Influences 3D Architecture and Gene Expression Dysregulation in HOXA Locus During Carcinogenesis of Cancers. *Frontiers in cell and developmental biology*. 2021 Mar 18.  
+7. **Xiaoqiong Xia**, Mengyu Zhou, Hao Yan, Sijia Li, Xianzheng Sha, Yin Wang. Network analysis of aging acceleration reveals systematic properties of 11 types of cancers. *FEBS Open Bio*. 2019 Jul.  
 
   
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
