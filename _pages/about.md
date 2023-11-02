@@ -17,17 +17,17 @@ Deep learning; Drug discovery; Drug target interaction; Drug response; Molecule 
 
 EDUCATION
 ======
-Ph.D., Institutes of Biomedical Sciences, Fudan University (GPA: 3.27/4)	2019.09-2024.06  
+**Ph.D.**, Institutes of Biomedical Sciences, Fudan University (**GPA: 3.27/4**)	2019.09-2024.06  
 Supervisor: Professor Lei Liu  
-B.S., Biomedical engineering, China Medical University (TOP 1)	2015.09–2019.06
+**B.S.**, Biomedical engineering, China Medical University (**TOP 1**)	2015.09–2019.06
 
 RESEARCH EXPERIENCES
 ======
-1. Develop a structure-based molecular generation model (primary researcher)	2022.12–present  
-Used MGLTools and AutoDock-GPU to build a virtual screening process for molecular fragments on a Linux system and screen high-scored molecular fragments efficiently.  
-Developed a fragment growth model using a diffusion algorithm to generate reasonable candidate molecules with high affinity to the target.  
-Used the GROMACS tool to perform molecular dynamics simulation of the receptor-ligand complex.  
-The project helps accelerate drug development.  
+**1. Develop a structure-based molecular generation model (primary researcher)**	2022.12–present  
+* Used MGLTools and AutoDock-GPU to build a virtual screening process for molecular fragments on a Linux system and screen high-scored molecular fragments efficiently.  
+* Developed a fragment growth model using a diffusion algorithm to generate reasonable candidate molecules with high affinity to the target.  
+* Used the GROMACS tool to perform molecular dynamics simulation of the receptor-ligand complex.  
+*The project helps accelerate drug development.  
 
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
