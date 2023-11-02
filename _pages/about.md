@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+About me
+======
 I am a PhD candidate at the Institutes of Biomedical Sciences, Fudan University. My PhD advisor is Professor Lei Liu, who is a leading researcher in the field of bioinformatics. I expect to graduate in June 2024. My research interests focus on artificial intelligence for early-stage drug discovery. I worked on developing drug-target interaction, drug activity prediction, and molecular generation models by combining deep learning algorithms with computer-aid drug design tools. My proposed methods facilitate drug discovery and repurposing.
 
 A data-driven personal website
