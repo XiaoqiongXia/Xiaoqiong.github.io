@@ -73,24 +73,15 @@ SKILLS
 
 AWARDS
 ======
-* Academic scholarship, Fudan University	2020-2023
-* Excellent student of “CAS CLUB AI Pharmaceutical Elite Class”	2023
-* “Huixiang Technology – CAS CLUB” Outstanding Talent Scholarship	2023
-* Outstanding student, Fudan University	2021
-* Excellent Student Cadre of Biomedical Research Institute, Fudan University	2021
-* Outstanding Graduate of Liaoning Province	2019
-* National Scholarship					2018
-* National Encouragement Scholarship	2017
-
 --------------------- | -----------------                      | ----------------- |  
 Academic scholarship  | Fudan University                       | 2020-2023  
 Excellent student     | CAS CLUB AI Pharmaceutical Elite Class | 2023  
 Outstanding Talent Scholarship | Huixiang Technology – CAS CLUB | 2023  
-Outstanding student  | Fudan University | 2021    
-Excellent Student Cadre  | Biomedical Research Institute, Fudan University | 2021    
-Outstanding Graduate  | Liaoning Province | 2019 
-National Scholarship  | National | 2018
-National Encouragement Scholarship  | National | 2017
+Outstanding student  | Fudan University | 2021  
+Excellent Student Cadre  | Biomedical Research Institute, Fudan University | 2021  
+Outstanding Graduate  | Liaoning Province | 2019  
+National Scholarship  | National | 2018  
+National Encouragement Scholarship | National | 2017  
 
 For more info
 ------
