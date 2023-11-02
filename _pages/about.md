@@ -11,6 +11,10 @@ About me
 ======
 I am a PhD candidate at the Institutes of Biomedical Sciences, Fudan University. My PhD advisor is Professor Lei Liu, who is a leading researcher in the field of bioinformatics. I expect to graduate in June 2024. My research interests focus on artificial intelligence for early-stage drug discovery. I worked on developing drug-target interaction, drug activity prediction, and molecular generation models by combining deep learning algorithms with computer-aid drug design tools. My proposed methods facilitate drug discovery and repurposing.
 
+RESEARCH INTERESTS
+======
+Deep learning; Drug discovery; Drug target interaction; Drug response; Molecule generation; Molecular representation; CADD; Omics analysis; Knowledge graph.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
