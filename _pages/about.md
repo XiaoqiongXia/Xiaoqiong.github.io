@@ -17,9 +17,9 @@ Deep learning; Drug discovery; Drug target interaction; Drug response; Molecule 
 
 EDUCATION
 ======
-* **Ph.D.**, Institutes of Biomedical Sciences, Fudan University (**GPA: 3.27/4**)        2019.09-2024.06 
+* **Ph.D.**, Institutes of Biomedical Sciences, Fudan University (**GPA: 3.27/4**)        2019.09-2024.06  
 Supervisor: Professor Lei Liu  
-* **B.S.**, Biomedical engineering, China Medical University (**TOP 1**)	                2015.09–2019.06
+* **B.S.**, Biomedical engineering, China Medical University (**TOP 1**)	                2015.09–2019.06  
 
 RESEARCH EXPERIENCES
 ======
@@ -75,12 +75,18 @@ AWARDS
 ======
 * Academic scholarship, Fudan University	2020-2023
 * Excellent student of “CAS CLUB AI Pharmaceutical Elite Class”	2023
-* “Huixiang Technology – Kai Si” Outstanding Talent Scholarship	2023
+* “Huixiang Technology – CAS CLUB” Outstanding Talent Scholarship	2023
 * Outstanding student, Fudan University	2021
 * Excellent Student Cadre of Biomedical Research Institute, Fudan University	2021
 * Outstanding Graduate of Liaoning Province	2019
 * National Scholarship					2018
 * National Encouragement Scholarship	2017
+
+--------------------- | -----------------|
+Academic scholarship | Fudan University | 2020-2023
+Excellent student | CAS CLUB AI Pharmaceutical Elite Class | 2023
+Outstanding Talent Scholarship | Huixiang Technology – CAS CLUB | 2023
+Outstanding student  | Huixiang Technology – CAS CLUB | 2023
 
 For more info
 ------
