@@ -30,10 +30,10 @@ RESEARCH EXPERIENCES
 **The project helps accelerate drug development.**  
 
 **2. Develop a cancer-drug response prediction model (primary researcher)**	2022.06–2023.09
-** Used pre-trained models ChemBERTa and GIN, MLP to learn the drug’s structural information.  
-** Applied MLP to learn multi-omics profiles of cell lines.  
-** Fused multimodal features based on multi-head attention mechanisms.  
-** Transfer learning improves the model’s generalization to predict drug cell line response (IC50).  
+* Used pre-trained models ChemBERTa and GIN, MLP to learn the drug’s structural information.  
+* Applied MLP to learn multi-omics profiles of cell lines.  
+* Fused multimodal features based on multi-head attention mechanisms.  
+* Transfer learning improves the model’s generalization to predict drug cell line response (IC50).  
 **The model could accelerate drug discovery and precision medicine.**  
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
