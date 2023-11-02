@@ -61,8 +61,16 @@ PUBLICATIONS
 
 6. **Xiaoqiong Xia**, Mengyu Zhou, Hao Yan, Sijia Li, Xianzheng Sha, Yin Wang. Network analysis of aging acceleration reveals systematic properties of 11 types of cancers. *FEBS Open Bio*. 2019 Jul.  
 
-  
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+SKILLS
+======
+* Familiar with Linux systems, proficient in R, Python, and PyTorch framework to build, train, and test models and GPU acceleration.  
+* Proficient in utilizing PyG and DGL Python packages for graph representation.  
+* Familiar with CNN/RNN/Transformer model, GCN/GAT/EGNN model and diffusion model.  
+* Proficient in PyMOL, MOE, AutoDock, RDKit, and GROMACS for molecular docking and molecular dynamics simulation.  
+* Familiar with open-source databases for compound/gene/protein/perturbation expression profiles and omics data analysis processes.  
+* Good English reading and writing skills, CET-6:558.  
+* Excellent written, communication skills, and collaborative ability.  
+
 
 Getting started
 ======
