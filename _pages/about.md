@@ -17,7 +17,7 @@ Deep learning; Drug discovery; Drug target interaction; Drug response; Molecule 
 
 EDUCATION
 ======
-* **Ph.D.**, Institutes of Biomedical Sciences, Fudan University (**GPA: 3.27/4**)	2019.09-2024.06  
+* **Ph.D.**, Institutes of Biomedical Sciences, Fudan University (**GPA: 3.27/4**)	<p align="right">2019.09-2024.06</p>  
 Supervisor: Professor Lei Liu  
 * **B.S.**, Biomedical engineering, China Medical University (**TOP 1**)	2015.09–2019.06
 
