@@ -49,7 +49,7 @@ RESEARCH EXPERIENCES
 
 PUBLICATIONS
 ======
-1. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. MDTips: A Multimodal-data based Drug-Target interaction prediction system fusing knowledge, gene expression profile and structural data. *Bioinformatics*. 2023 Jun 22.  
+1. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. MDTips: A Multimodal-data based Drug-Target interaction prediction system fusing knowledge, gene expression profile and structural data. *Bioinformatics*. 2023 Jun 22.  <br/> 
 2. **Xiaoqiong Xia**, Chaoyu Zhu, Fan Zhong, Lei Liu. TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion. *computer methods and programs in biomedicine*. Under review.  
 3. Chaoyu Zhu, Zhihao Yang, **Xiaoqiong Xia**, Nan Li, Fan Zhong, Lei Liu. Multimodal reasoning based on knowledge graph embedding for specific diseases. *Bioinformatics*. 2022 Apr 12.  
 4. Chaoyu Zhu, **Xiaoqiong Xia**, Nan Li, Fan Zhong, Lei Liu. RDKG-115: Assisting Drug Repurposing and Discovery for Rare Diseases by Trimodal Knowledge Graph Embedding. *Computers in Biology and Medicine*. 2023 Jul 17.  
