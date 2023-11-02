@@ -82,11 +82,11 @@ AWARDS
 * National Scholarship					2018
 * National Encouragement Scholarship	2017
 
---------------------- | -----------------|
-Academic scholarship | Fudan University | 2020-2023
-Excellent student | CAS CLUB AI Pharmaceutical Elite Class | 2023
-Outstanding Talent Scholarship | Huixiang Technology – CAS CLUB | 2023
-Outstanding student  | Huixiang Technology – CAS CLUB | 2023
+--------------------- | -----------------                      | ----------------- |  
+Academic scholarship  | Fudan University                       | 2020-2023  
+Excellent student     | CAS CLUB AI Pharmaceutical Elite Class | 2023  
+Outstanding Talent Scholarship | Huixiang Technology – CAS CLUB | 2023  
+Outstanding student  | Huixiang Technology – CAS CLUB | 2023  
 
 For more info
 ------
